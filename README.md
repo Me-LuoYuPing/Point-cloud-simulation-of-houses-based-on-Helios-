@@ -1,0 +1,2 @@
+# Point-cloud-simulation-of-houses-based-on-Helios-
+This system is an indoor scanning simulation program developed based on the Helios lidar simulation platform, which is mainly used to simulate the process of handheld lidar scanning in an indoor environment, and the system can automatically analyze the 3D building model, generate an optimized scanning path, and perform a complete lidar simulation.
